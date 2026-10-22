@@ -21,3 +21,7 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+# Temporary coursework migration tools
+/migrate-module7-to-module8.cjs
+/migrate-module7-to-module8-v2.cjs
+/fix-module8-popup-and-favicon.cjs
